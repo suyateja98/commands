@@ -1,0 +1,14 @@
+:w --> save to a file 
+:q --> quit out of editor file 
+:q! --> quit out of editor without saving file 
+w --> move one word forward at a time in file 
+b --> move one word back at a time in file 
+:wq --> save file and quit editor 
+$ --> move to end of line in file 
+0 --> move to the beginning of the line in file 
+H --> moves to top of file (think H for "high") 
+M --> moves to middle of file (think M for "middle") 
+L --> moves to low part of file (think L for "low") 
+ctrl + f --> move forward in file (autoscroll down) 
+ctrl + b --> move back in file (autoscroll up) 
+
